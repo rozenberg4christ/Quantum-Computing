@@ -1,7 +1,7 @@
 /* IBM Quantum Experience uses a physical type of qubit called
  a superconducting transmon qubit, which is made from superconducting materials
  such as niobium and aluminum, patterned on a silicon substrate. */
- 
+
 #The ground state of the qubit is being checked
 
 #OpenQasm Input
